@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Initial commit: COVID-19 forecasting dashboard"
+git branch -M main
+git remote add origin https://github.com/yourusername/covid-forecast-streamlit.git
+git push -u origin main
